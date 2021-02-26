@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-78AADB?style=flat-square&logo=R&logoColor=BLACK"/></a>
-<img src="https://img.shields.io/badge/Hive-E31337?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hive-E31337?style=flat-square&logo=Hive&logoColor=white"/></a>
 
 
 
