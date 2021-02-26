@@ -3,7 +3,7 @@
 - There is no end to learning😂, but there are many beginnings🌱
 
 [![Dain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dain)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dain)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dain105)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-78AADB?style=flat-square&logo=R&logoColor=BLACK"/></a>
